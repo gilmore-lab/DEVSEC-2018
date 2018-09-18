@@ -1,0 +1,20 @@
+---
+title: "Reusing Video"
+author: "Rick Gilmore (databrary.org)"
+date: "`r Sys.time()`"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is Databrary?
+
+## Slide with Bullets
+
+## Slide with R Output
+
+---
+
+Slide without a header?
