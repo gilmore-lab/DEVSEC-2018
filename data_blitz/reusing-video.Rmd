@@ -2,19 +2,53 @@
 title: "Reusing Video"
 author: "Rick Gilmore (databrary.org)"
 date: "`r Sys.time()`"
-output: slidy_presentation
+output: 
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## What is Databrary?
+---
 
-## Slide with Bullets
-
-## Slide with R Output
+<div class="centered">
+<video width="800" controls autoplay>
+  <source src="../mov/databrary-splash.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
 
 ---
 
-Slide without a header?
+<div class="centered">
+<video width="800" controls autoplay>
+  <source src="../mov/volume-8.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Tamis-LeMonda, C. (2013). Databrary. Retrieved September 26, 2018 from http://doi.org/10.17910/B7CC74.
+</div>
+
+---
+
+<div class="centered">
+<video width="800" controls autoplay>
+  <source src="../mov/volume-330.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Bergelson, E. (2017). Databrary. Retrieved September 26, 2018 from http://doi.org/10.17910/B7.330.
+
+---
+
+<div class="centered">
+<video width="800" controls autoplay>
+  <source src="../mov/databraryapi.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
