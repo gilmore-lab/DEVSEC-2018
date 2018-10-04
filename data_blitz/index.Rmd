@@ -21,11 +21,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Re-use video data
+
 ---
 
 <!-- Databrary splash loop -->
 <div class="centered">
-<video width="900" controls>
+<video width="900" controls autoplay loop>
   <source src="../mov/databrary-splash.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -53,16 +55,26 @@ Your browser does not support the video tag.
 Bergelson, E. (2017). Databrary. Retrieved September 26, 2018 from http://doi.org/10.17910/B7.330.
 </div>
 
----
+<!-- --- -->
+
+<!-- <div class="centered"> -->
+<!-- <video width="900" controls> -->
+<!--   <source src="../mov/databraryapi.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
+
+<!-- <http://github.com/PLAY-behaviorome/databraryapi> -->
+<!-- </div> -->
+
+## Play & Learning Across a Year (PLAY) Project
 
 <div class="centered">
-<video width="900" controls>
-  <source src="../mov/databraryapi.mp4" type="video/mp4">
+<video width="700" controls>
+  <source src="https://nyu.databrary.org/slot/27087/0,47000/asset/119877/download?inline=true" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<http://github.com/PLAY-behaviorome/databraryapi>
-</div>
+**Hiring Research Scientists (PhD/ABD):** <http://apply.interfolio.com/54828>
 
 ---
 
