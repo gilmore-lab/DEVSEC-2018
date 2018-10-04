@@ -25,7 +25,8 @@
         usePrettify: true,
         enableSlideAreas: true,
         enableTouch: true,
-                      },
+                        favIcon: 'reusing-video_files/logo.jpg',
+              },
 
       // Author information
       presenters: [
@@ -78,6 +79,21 @@
       opacity: 0;
     }
 
+    slides > slide:not(.nobackground):before {
+      font-size: 12pt;
+      content: "";
+      position: absolute;
+      bottom: 20px;
+      left: 60px;
+      background: url(reusing-video_files/logo.jpg) no-repeat 0 50%;
+      -webkit-background-size: 30px 30px;
+      -moz-background-size: 30px 30px;
+      -o-background-size: 30px 30px;
+      background-size: 30px 30px;
+      padding-left: 40px;
+      height: 30px;
+      line-height: 1.9;
+    }
   </style>
 
 
@@ -88,19 +104,22 @@
 <slides class="layout-widescreen">
 
   <slide class="title-slide segue nobackground">
+        <aside class="gdbar"><img src="reusing-video_files/logo.jpg"></aside>
         <!-- The content of this hgroup is replaced programmatically through the slide_config.json. -->
     <hgroup class="auto-fadein">
       <h1 data-config-title><!-- populated from slide_config.json --></h1>
       <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
       <p data-config-presenter><!-- populated from slide_config.json --></p>
-            <p style="margin-top: 6px; margin-left: -2px;">2018-09-26 14:04:45</p>
+            <p style="margin-top: 6px; margin-left: -2px;">2018-10-04 05:14:16</p>
           </hgroup>
   </slide>
 
 <slide class=""><hgroup><h2></h2></hgroup><article >
 
+<!-- Databrary splash loop -->
+
 <div class="centered">
-<video width="800" controls autoplay>
+<video width="900" controls>
 
 <source src="../mov/databrary-splash.mp4" type="video/mp4"> Your browser does not support the video tag.
 
@@ -109,7 +128,7 @@
 </article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
 
 <div class="centered">
-<video width="800" controls autoplay>
+<video width="900" controls>
 
 <source src="../mov/volume-8.mp4" type="video/mp4"> Your browser does not support the video tag.
 
@@ -120,24 +139,24 @@
 </article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
 
 <div class="centered">
-
-<video width="800" controls autoplay>
+<video width="900" controls>
 
 <source src="../mov/volume-330.mp4" type="video/mp4"> Your browser does not support the video tag.
 
 </video>
 
-<p>Bergelson, E. (2017). Databrary. Retrieved September 26, 2018 from <a href='http://doi.org/10.17910/B7.330' title=''>http://doi.org/10.17910/B7.330</a>.</p>
+<p>Bergelson, E. (2017). Databrary. Retrieved September 26, 2018 from <a href='http://doi.org/10.17910/B7.330' title=''>http://doi.org/10.17910/B7.330</a>.</p></div>
 
 </article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
 
 <div class="centered">
-
-<video width="800" controls autoplay>
+<video width="900" controls>
 
 <source src="../mov/databraryapi.mp4" type="video/mp4"> Your browser does not support the video tag.
 
-</video></article></slide>
+</video>
+
+<p><a href='http://github.com/PLAY-behaviorome/databraryapi' title=''>http://github.com/PLAY-behaviorome/databraryapi</a></p></div></article></slide>
 
 
   <slide class="backdrop"></slide>

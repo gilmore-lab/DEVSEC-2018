@@ -1,0 +1,77 @@
+---
+title: "Reusing Video"
+author: "Rick Gilmore (databrary.org)"
+date: "`r Sys.time()`"
+output: 
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    incremental: false
+    theme: simple
+    transition: none
+    reveal_plugins: ["notes", "zoom"]
+    reveal_options:
+      slideNumber: true
+      previewLinks: false
+      center: true
+      touch: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
+
+<!-- Databrary splash loop -->
+<div class="centered">
+<video width="900" controls>
+  <source src="../mov/databrary-splash.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+
+---
+
+<div class="centered">
+<video width="900" controls>
+  <source src="../mov/volume-8.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Tamis-LeMonda, C. (2013). Databrary. Retrieved September 26, 2018 from http://doi.org/10.17910/B7CC74.
+</div>
+
+---
+
+<div class="centered">
+<video width="900" controls>
+  <source src="../mov/volume-330.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Bergelson, E. (2017). Databrary. Retrieved September 26, 2018 from http://doi.org/10.17910/B7.330.
+</div>
+
+---
+
+<div class="centered">
+<video width="900" controls>
+  <source src="../mov/databraryapi.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<http://github.com/PLAY-behaviorome/databraryapi>
+</div>
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/NSF_Logo.PNG" height=150px>
+<img src="https://science.nichd.nih.gov/confluence/download/attachments/34472103/NICHD-vertical-2-color.png?version=1&modificationDate=1477410070000&api=v2" height=150px>
+</br>
+<img src="https://sloan.org/storage/app/media/Logos/Sloan-Logo-stacked-black-web.png" height=150px>
+<img src="http://newsroom.unl.edu/announce/files/file77330.jpg" height=150px/>
+<img src="https://www.unicef.org.hk/wp-content/uploads/2017/08/Logo-05_Lego-foundation_UNICEF_partnership.jpg" height=150px />
+</br>
+<img src="https://nationalpress.org/wp-content/uploads/2016/04/NIDA-logo-300x300.jpg" height=150px/>
+<img src="http://bewellva.com/wp-content/uploads/2017/12/NIMH-Logo_14-e1510955490255.jpg" height=150px/>

@@ -9,6 +9,7 @@ output:
     widescreen: true
     incremental: false
     transition: default
+    logo: ../img/databrary-new-leaf.jpg
 ---
 
 ```{r setup, include=FALSE}
@@ -17,8 +18,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+<!-- Databrary splash loop -->
 <div class="centered">
-<video width="800" controls autoplay>
+<video width="900" controls>
   <source src="../mov/databrary-splash.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -27,7 +29,7 @@ Your browser does not support the video tag.
 ---
 
 <div class="centered">
-<video width="800" controls autoplay>
+<video width="900" controls>
   <source src="../mov/volume-8.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -38,17 +40,23 @@ Tamis-LeMonda, C. (2013). Databrary. Retrieved September 26, 2018 from http://do
 ---
 
 <div class="centered">
-<video width="800" controls autoplay>
+<video width="900" controls>
   <source src="../mov/volume-330.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 Bergelson, E. (2017). Databrary. Retrieved September 26, 2018 from http://doi.org/10.17910/B7.330.
+</div>
 
 ---
 
 <div class="centered">
-<video width="800" controls autoplay>
+<video width="900" controls>
   <source src="../mov/databraryapi.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<http://github.com/PLAY-behaviorome/databraryapi>
+</div>
+
+
