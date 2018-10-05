@@ -27,6 +27,14 @@ require("revealjs")
 
 ---
 
+**Anne Mastergeorge** (Texas Tech University), "An analysis of the association between brain gray matter volumes and working memory in children with autism spectrum disorder"
+
+**Melissa Kline** (MIT), "ManyBabies - Using Larg(er) Experimental Datasets for Methodological and Theoretical Questions"
+
+**Rick Gilmore** (Penn State/Databrary), "The Promise of Open Developmental Science"
+
+---
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/NSF_Logo.PNG" height=150px>
 <img src="https://science.nichd.nih.gov/confluence/download/attachments/34472103/NICHD-vertical-2-color.png?version=1&modificationDate=1477410070000&api=v2" height=150px>
 </br>
