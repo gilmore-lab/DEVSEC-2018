@@ -8,4 +8,4 @@ Materials related to the presentations Rick Gilmore gave at the [DEVSEC 2018 Con
 
 Poster was created in [Overleaf](https://v2.overleaf.com/login) and shared with rick.o.gilmore@gmail.com. The login for overleaf is the same as the login that was used for sharelatex.com. LaTex version of poster located here: https://v2.overleaf.com/8655138865vqtpvymqcsrc
 
-- Open Developmental Science [talk](https://gilmore-lab.github.io/DEVSEC-2018/symposium/), Friday, October 5, 2018, 3-4:30 pm (MDT)
+- "The promise of open developmental science"   [talk](https://gilmore-lab.github.io/DEVSEC-2018/promise-of-open-dev-sci/), Friday, October 5, 2018, 3-4:30 pm (MDT)
