@@ -320,12 +320,23 @@ Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J. J., Appleton, G., Axton, M.,
 - Without *quid pro quo*, pre-approval, or requirement of co-authorship
 - *With* expectation of ethical use **AND** proper citation
 
+## Play & Learning Across a Year (PLAY) Project
+
+<div class="centered">
+<video width="700"data-autoplay>
+  <source src="https://nyu.databrary.org/slot/27087/0,79000/asset/119877/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+$n=900$ 12-, 18-, 24-mo-olds; $n=30$ sites
+
+**Hiring Research Scientists (PhD/ABD):** <http://apply.interfolio.com/54828>
+
 ---
 
 <img src="https://static01.nyt.com/images/2012/04/01/sunday-review/01GRAY/01GRAY-jumbo.jpg" height=550px/>
 
 <!-- We don't have to have physics envy -->
-
 
 ---
 
@@ -351,7 +362,7 @@ SRCD Task Force on Scientific Integrity and Openness
 
 ---
 
-<video width="600" loop data-autoplay>
+<video width="800" loop data-autoplay>
   <source src="../mov/databrary-splash.mp4" type="video/mp4">
 </video>
 
@@ -359,12 +370,12 @@ rogilmore@psu.edu
 
 <https://gilmore-lab.github.io>
 
-<https://github.com/gilmore-lab/DEVSEC2018/promise-of-open-dev-sci/>
+<https://gilmore-lab.github.io/DEVSEC-2018/promise-of-open-dev-sci/>
 
 ---
 
 This talk was produced on `r Sys.time()` in [RStudio 1.1.453](http://rstudio.com) using R Markdown and the reveal.JS framework.
-The code and materials used to generate the slides may be found at <https://github.com/gilmore-lab/DEVSEC2018/promise-of-open-dev-sci/>. 
+The code and materials used to generate the slides may be found at <https://github.com/gilmore-lab/DEVSEC-2018/promise-of-open-dev-sci/>. 
 Information about the R Session that produced the slides is as follows:
 
 ---
