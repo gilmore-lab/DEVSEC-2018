@@ -27,11 +27,11 @@ require("revealjs")
 
 ---
 
+**Rick Gilmore** (Penn State/Databrary), "The Promise of Open Developmental Science"
+
 **Anne Mastergeorge** (Texas Tech University), "An analysis of the association between brain gray matter volumes and working memory in children with autism spectrum disorder"
 
 **Melissa Kline** (MIT), "ManyBabies - Using Larg(er) Experimental Datasets for Methodological and Theoretical Questions"
-
-**Rick Gilmore** (Penn State/Databrary), "The Promise of Open Developmental Science"
 
 ---
 
