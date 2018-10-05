@@ -202,13 +202,13 @@ Your browser does not support the video tag.
 
 > "*...psychologists tend to treat other peoples’ theories like toothbrushes; no self-respecting individual wants to use anyone else’s.*"
 
-(Mischel, 2009)
+[(Mischel, 2009)](https://www.psychologicalscience.org/observer/becoming-a-cumulative-science)
 
 ---
 
 > "*The toothbrush culture undermines the building of a genuinely cumulative science, encouraging more parallel play and solo game playing, rather than building on each other’s directly relevant best work.*"
 
-(Mischel, 2009)
+[(Mischel, 2009)](https://www.psychologicalscience.org/observer/becoming-a-cumulative-science)
 
 # Share not your toothbrush...
 
@@ -291,6 +291,20 @@ Soderstrom, M. & Klassen, K. (2017). ManyBabies 1: bll-umanitoba. Databrary. Ret
 
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3, 160018. Retrieved from http://dx.doi.org/10.1038/sdata.2016.18
 
+---
+
+<video data-autoplay>
+  <source src="../mov/databrary-spreadsheet.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video data-autoplay>
+  <source src="../mov/databrary-search-hires.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ## Share ethically
 
 - Ask permission to share (especially for sensitive, identifiable data)
@@ -302,6 +316,15 @@ Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J. J., Appleton, G., Axton, M.,
 <img src="../img/databrary-release.jpg"/>
 
 <https://www.databrary.org/resources/guide/investigators/release/release-levels.html>
+
+---
+
+<video data-autoplay>
+  <source src="https://www.databrary.org/video/example-video-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<https://www.databrary.org/resources/guide/investigators/release/asking/examples.html>
 
 ---
 
