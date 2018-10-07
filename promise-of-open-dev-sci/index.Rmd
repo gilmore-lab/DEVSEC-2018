@@ -247,14 +247,14 @@ Adolph, K. (2014). Excerpt Volume: Learning in the development of infant locomot
 
 <!-- Rich behavioral measures tell a rich story -->
 
----
+<!-- --- -->
 
-<video width="800" controls data-autoplay>
-  <source src="https://nyu.databrary.org/slot/21794/0,407508/asset/108263/download?inline=true" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<!-- <video width="800" controls data-autoplay> -->
+<!--   <source src="https://nyu.databrary.org/slot/21794/0,407508/asset/108263/download?inline=true" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
 
-Soderstrom, M. & Klassen, K. (2017). ManyBabies 1: bll-umanitoba. Databrary. Retrieved October 4, 2018 from http://doi.org/10.17910/B7.445
+<!-- Soderstrom, M. & Klassen, K. (2017). ManyBabies 1: bll-umanitoba. Databrary. Retrieved October 4, 2018 from http://doi.org/10.17910/B7.445 -->
 
 ## Where
 
